@@ -1,6 +1,5 @@
 # CaoMedor.App
 ![CãoMedor](https://lh3.googleusercontent.com/cD7iToOlesYcNQdhhGiLldwavS3FVA_oOHZdbcA6whQZ9ehd7ezDyBDeJWPg2HJGTkDr2euyhfyyw7DrvFJaRwkVaIjxXIUFyJpH0-dn3OTR0Cr16kwm5coqqXr9rO0nabByPzDCUsY1MBK_90pCwPtfunxYWLLFalIVz9KzEgJwz_2KG227tBPAerRr6xrbntRHMdVOm725pHaLJDdj9YD2_lgFKKL3m4GdFrbRM-wEyrarQ7Clmct9tvQOMiaJQi5-7GXP9tR2Sk01DuBL32amNLmJ-N74evgud9GwoJ24k5M5p1Y_Kezx3xO_nuSw7Mu1mnfhjmJPkC50H2i4xc9sI182gLZiDnwpRw1Xh4wynj6bJVDIEnROf6inBG721uHm-5g1Vho_oN3joBln9_RQPEl9bjHFgZnCyugFE1VI1X83gkRAbcQORT8BK6T75_bPVRhngFZPiHRKoeFUyNiHqj9dcwi4bUyhfUEuSuRLm_yfrJmp1Y5CQPu_ZD9hSE-y33XKHkbJ2poF-_8PFClVvB-mcYJMCr9nKmjU3LmQZhcWCArt-mx0b81HuCY7KRUjfiwAJHbPm6_CrSGeBPfcudVqao3ApZSzB4pk_wzMkhqni-1mC54PzGhRbCmjEkDAfFLxVUT54o-EUe8RjsAvqdzN91NYSg=w640-h450-no)
 
-CãoMedor is a cheap and low cost to maintain pet feeder. It was born out of a necessity to keep my dogs well feeded when I wasnt't at home.
-Uses an Arduino and a bunch of sensors and motors to check and serve portions of dog food.
-It's possible to setup the device using a computer software (for Windows) and a USB interface.
+CãoMedor is an automatic and low cost pet feeder. It was created from a necessity to keep my dogs well fed when I'm not at home. It uses an Arduino and a bunch of sensors and motors to check out and serve portions of dog food.
+It's possible to setup up the device using a computer software (for Windows) and a USB interface.
